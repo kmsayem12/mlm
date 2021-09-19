@@ -1,0 +1,6 @@
+.page-header {
+    background-image: unset;
+}
+.page-header .page-block {
+    padding: 20px 40px;
+}
